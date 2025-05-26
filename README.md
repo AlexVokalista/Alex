@@ -1,2 +1,4 @@
 # Alex
 Songwriter
+singer
+jurnalist
